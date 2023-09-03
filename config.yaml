@@ -1,0 +1,21 @@
+# Configuration file for Type Teach program
+
+
+# What words/letters to type:
+letters_include_array: 
+  e r u i
+  a s d f g h j k l ;
+   
+enable_lowercase: true
+enable_uppercase: false
+
+wordbank_filename: 'wordbank.txt'
+
+
+
+# How to display the words to type:
+prompt_case_upper_only: true
+
+
+
+

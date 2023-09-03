@@ -1,12 +1,19 @@
 This is the feature roadmap for Bryan's Type Teach program
 
 
-Goal for 9/3/23
-- As a developer, I can push code to Github
-- As a user, I can start the program using a config file
-- As a user, I can be prompted 10 different "sentences" to type against
+Next up features:
 - As a user, I can be shown my Accuracy and Speed (WPM) at the end of session
 
 
 Future features:
 - As a user, I see historical stats of my performance over time
+I am branching code and merging changes back
+Ensure that semicolon is showing up appropriately
+be able to do more than 5 rounds in a session
+enable frequnency equalization of letters
+
+
+Completed features:
+- As a developer, I can push code to Github
+- As a user, I can start the program using a config file
+- As a user, I can be prompted 10 different "sentences" to type against
